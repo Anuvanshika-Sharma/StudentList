@@ -9,7 +9,7 @@ package javaapplication1;
  * @author anuva
  */
 public class JavaApplication1 {
-    /**This is my change**/
+    /**THIS IS MY CHANGE IN CAPITAL**/
 
     /**
      * @param args the command line arguments
